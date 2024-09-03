@@ -11,4 +11,3 @@
 
 - **Validação de Entrada:** Exibe mensagens de erro para entradas inválidas.
 
-## Como Rodar o Projeto
